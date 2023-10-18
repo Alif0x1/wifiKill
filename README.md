@@ -6,13 +6,15 @@ A Python-based tool for WiFi penetration testing.
 
 WiFi Pentest Tool is a comprehensive utility designed to help security professionals and ethical hackers assess the security of wireless networks. With its user-friendly interface and powerful functionalities, it provides a range of capabilities for scanning, analyzing, and testing WiFi networks.
 
+
 ## Features
 
-- Comprehensive WiFi scanning and analysis capabilities
-- WPA/WPA2 cracking and testing for password vulnerabilities
-- Packet sniffing and monitoring for analyzing network traffic
-- Customizable attack vectors for assessing network resilience
-- Real-time reporting and visualization of network vulnerabilities
+- **Comprehensive WiFi Scanning and Analysis:** Offers in-depth scanning and analysis capabilities for WiFi networks.
+- **WPA/WPA2 Cracking and Testing:** Facilitates the testing of password vulnerabilities within WPA/WPA2 protocols.
+- **Packet Sniffing and Monitoring:** Enables the analysis of network traffic through efficient packet sniffing and monitoring techniques.
+- **Customizable Attack Vectors:** Provides the flexibility to customize attack vectors for assessing network resilience.
+- **Real-time Reporting and Visualization:** Offers real-time reporting and visualization of network vulnerabilities for efficient analysis.
+
 
 ## Prerequisites
 
