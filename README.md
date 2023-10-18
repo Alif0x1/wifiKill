@@ -20,24 +20,17 @@ WiFi Pentest Tool is a comprehensive utility designed to help security professio
 
 
 ## Installation
-1. Clone the repository:
-git clone https://github.com/AhamedAlif/wifiKill
-2. Navigate to the project directory:
-cd wifikill
-3. Install the required dependencies:
-pip install -r requirements.txt
-Ensure you have Python 3.10 installed. Run the following command:
-python wifikill.py
+1. Clone the repository: `git clone https://github.com/AhamedAlif/wifiKill`
+2. Navigate to the project directory: `cd wifikill`
+3. Install the required dependencies: `pip install -r requirements.txt`
+4. Ensure you have Python 3.10 installed. Run the following command: `python wifikill.py`
 
 Follow the instructions displayed on the screen to perform various WiFi penetration testing tasks.
 
 ## Contributing
 Contributions are welcome!
 
-
 ## Disclaimer
 Use this tool responsibly and only on networks you have explicit permission to test. The authors are not responsible for any misuse or damage caused by this tool.
-
-
 
 
